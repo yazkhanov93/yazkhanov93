@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yazkhanov93
 - 👀 I’m interested in Programming and Electronics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working remote
 
 <!---
 yazkhanov93/yazkhanov93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
